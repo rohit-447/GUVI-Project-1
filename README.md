@@ -52,7 +52,7 @@ CREATE TABLE students (
 
 ## Screenshots
 
-> Add screenshots of the UI or database table here.
+!(media/image.png)
 
 ## Author
 
