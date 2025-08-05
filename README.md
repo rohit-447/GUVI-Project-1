@@ -52,7 +52,7 @@ CREATE TABLE students (
 
 ## Screenshots
 
-![(media/image.png)]
+![Registration Page ](media/image.png)
 
 ## Author
 
